@@ -28,12 +28,12 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/<your-username>/<repository-name>.git
+    git clone https://github.com/m-a-x-c/monero-transaction-graph.git
     ```
 
 2. Navigate into the cloned repository directory:
     ```bash
-    cd <repository-name>
+    cd monero-transaction-graph
     ```
 
 3. Install the required Python dependencies:
