@@ -1,4 +1,4 @@
-# Monero Transaction Tool
+# Monero Transaction Graph Generator
 
 This tool is designed for Monero (XMR) enthusiasts, researchers, and developers who require a detailed analysis and management tool for Monero transactions. It enables users to  create visual graphs for transaction flows from transaction hashes by interacting with a local Monero daemon (`monerod`). It requires the download the creation of a database which may take more than three continious days to complete. Database creation and update can be triggered by choosing option 1 when main.py is run.
 
