@@ -64,7 +64,6 @@ Follow the on-screen instructions to navigate through these options.
 ### Configuration
 
 - The database file path and other configurations can be modified directly in the `main.py` file.
-- The maximum number of nodes for the transaction graph can be set via the `graph_limit_user_logic` function, with a default limit of 200 nodes.
 
 ### Contributing
 
