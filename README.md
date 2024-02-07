@@ -61,10 +61,6 @@ The tool provides the following options:
 
 Follow the on-screen instructions to navigate through these options.
 
-### Configuration
-
-- The database file path and other configurations can be modified directly in the `main.py` file.
-
 ### Contributing
 
 Contributions to the project are welcome! Please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute to this project.
