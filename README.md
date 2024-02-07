@@ -1,6 +1,6 @@
 # Monero Transaction Graph Generator
 
-This tool is designed for Monero (XMR) enthusiasts, researchers, and developers who require visualisation of Monero transactions. It enables users to  create visual graphs for transaction flows from a root transaction hash. It requires the Monero daemon (`monerod`). It also requires database mapping ring members to their transaction hashes. As this database is too big to upload to GitHub (>50 GB), users are required to create it, which can be done easily by choosing option 1 from the main menu of main.py. However, this may take more than three days to complete.
+This tool is designed for Monero (XMR) enthusiasts, researchers, and developers who require visualisation of Monero transactions. It enables users to  create visual graphs for transaction flows from a root transaction hash. It requires the Monero daemon (`monerod`). It also requires a database which maps ring members to their transaction hashes. As this database is too big to upload to GitHub (>50 GB), users are required to create it, which can be done easily by choosing option 1 from the main menu of main.py. However, this may take more than three days to complete.
 
 ## Example Transaction Graph
 
